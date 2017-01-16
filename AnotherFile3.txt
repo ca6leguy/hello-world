@@ -7,10 +7,7 @@ dsafdsafdsag dsfds fds fds
 
 
 
-<<<<<<< HEAD
+This is from branch1
+
 111111111112222222222222
 AAAAAAAAAAAAAAA
-=======
-
-This is from branch1
->>>>>>> refs/remotes/origin/Branch1
